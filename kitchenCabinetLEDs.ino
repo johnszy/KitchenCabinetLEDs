@@ -70,8 +70,8 @@ CRGB leds[NUM_LEDS];
 
 
 // Replace with your network credentials
-const char* ssid = "Rainbow";
-const char* password = "Un1c0rn!";
+const char* ssid = "HomeNetName";
+const char* password = "Password";
 
 const char* PARAM_LSINK = "leftSinkDefault";
 const char* PARAM_RSINK = "rightSinkDefault";
