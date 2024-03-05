@@ -1,19 +1,8 @@
 /*********
-  Rui Santos
-  Complete project details at https://RandomNerdTutorials.com/esp32-websocket-server-arduino/
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
 
-use code to assign STATE
-//<hr/>
-//  <div class="content">
-//    <div class="card">
-//      <h2>Save As Default</h2>
-//      <p class="state">state: <span id="state">%STATE%</span></p>
-//      <p><button id="button" class="button">Toggle</button></p>
-//    </div>
-//  </div>
+John Szymanski
 
+Modified Websocket server to control LEDs from 5 Kitchen Cabinets
   
 *********/
 
